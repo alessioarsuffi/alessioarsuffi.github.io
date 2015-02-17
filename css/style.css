@@ -28,7 +28,7 @@ html, body {
 
 /* additional sections */
 #home {
-  background: url(http://lorempixel.com/g/1920/1080/) no-repeat center center fixed; 
+  background: url(http://lorempixel.com/g/801/600/) no-repeat center center fixed; 
   display: table;
   height: 100%;
   position: relative;
@@ -59,7 +59,7 @@ html, body {
 }
 
 #information {
-  background: url(http://lorempixel.com/g/1920/1080/) no-repeat center center fixed; 
+  background: url(http://lorempixel.com/g/800/600/) no-repeat center center fixed; 
   display: table;
   height: 800px;
   position: relative;
