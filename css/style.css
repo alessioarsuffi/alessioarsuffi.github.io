@@ -17,6 +17,7 @@ html, body {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
+    color: #fff;
 }
 .text-vcenter h1 {
   font-size: 4.5em;
@@ -42,7 +43,7 @@ html, body {
 }
 
 #services {
-  background-color: #ececec;
+  background-color: #4f4f4f;
   color: #ffffff;
 }
 #services .glyphicon {
